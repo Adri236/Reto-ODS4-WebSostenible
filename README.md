@@ -11,10 +11,3 @@
 | Usuarios | Personas registradas en la plataforma. | ID_Usuario, Nombre, Email, Contraseña, Rol (Profe/Alumno). |
 | Apuntes | Documentos de texto compartidos. | ID_Apunte, Título, Contenido_Texto, Fecha, ID_Autor. |
 | Dudas | Preguntas del foro. | ID_Duda, Texto_Pregunta, Fecha, ID_Usuario, Resuelta (Sí/No). |
-
-### Prototipo de Interfaz (Frontend)
-A continuación se muestra el wireframe de nuestra aplicación:
-
-![Prototipo de la Interfaz Web EduText](prototipo-edutext.png)
-
-**Breve explicación:** En la imagen se observa la interfaz principal en modo oscuro, diseñada para consumir pocos recursos y batería. Destaca un menú lateral de navegación y una lista central con apuntes en formato ligero.
